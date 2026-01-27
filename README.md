@@ -2,7 +2,7 @@
 <img width="1072" height="276" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
 </div>
 
-<h1 align="center">PulseCommerce - Ecommerce Performance Report</h1>
+<h1 align="center">Ecommerce Performance Report</h1>
 
 <table align="center">
   <tr>
