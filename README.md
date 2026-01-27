@@ -1,34 +1,35 @@
 <div align="center">
 <img width="1072" height="276" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
-
 </div>
 
-<h1 align="center">PulseCommerce — Ecommerce Performance Report</h1>
+<h1 align="center">PulseCommerce - Ecommerce Performance Report</h1>
 
 <table align="center">
   <tr>
     <td width="1440">
       <h2 align="center">Client Background</h2>
       <body>
-        <strong>PulseCommerce</strong> is a consumer electronics e-commerce company serving customers globally through web and mobile platforms. <br><br>
-
-        The dataset contains <strong>108,129</strong> orders and a region lookup table with <strong>200</strong> records (2019–2022). Reporting to the Head of Operations, this analysis evaluates commercial performance and highlights operational opportunities across sales trends, customer behavior, and refunds/returns. <br><br>
-
-        The key insights and recommendations focus on the following areas:
+        <strong>PulseCommerce</strong> is a global e-commerce company that sells popular consumer electronics and accessories through web and mobile platforms. Founded in 2018, the company expanded rapidly and experienced major demand shifts during the COVID-19 period. <br>
+        <br>
+        <strong>PulseCommerce's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
+        <br>
+        Reporting to the Head of Operations, an analysis was conducted to evaluate <strong>PulseCommerce’s</strong> performance over the past several years and surface actionable insights for cross-functional teams. The key insights and recommendations focus on the following areas:
       </body>
+      
+<h3>Northstar Metrics</h3>
+<ul>
+  <li><strong>Sales trends</strong> - Tracking sales revenue, number of orders placed, and average order value (AOV) over time.</li>
+  <li><strong>Product performance</strong> - Identifying top products and refund patterns to inform product and operations decisions.</li>
+  <li><strong>Loyalty program evaluation</strong> - Comparing loyal vs. non-loyal customers to improve engagement and retention.</li>
+  <li><strong>Regional results</strong> - Understanding demand differences across regions using the geo lookup table.</li>
+</ul>
 
-      <h3>Northstar Metrics</h3>
-      <h4>
-        <ul>
-          <li><strong>Sales trends</strong> — Sales revenue, order volume, and average order value (AOV).</li>
-          <li><strong>Loyalty program</strong> — Loyalty vs. non-loyal performance and retention signals.</li>
-          <li><strong>Refunds</strong> — Refund rate patterns by product and year.</li>
-          <li><strong>Regional performance</strong> — Demand differences across regions (via geo lookup).</li>
-        </ul>
-      </h4>
-    </td>
   </tr>
 </table>
+
+
+
+
 
 
 <table align="center">
