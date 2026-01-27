@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1346" height="507" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
+<img width="1300" height="480" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
 
 
 </div>
@@ -89,14 +89,11 @@
 
 <h2 align="center">Dataset Structure</h2>
 <body>
-<img width="1500" height="1000" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
-
 
 </body>
 
 <div align="center">
-  <!-- Replace with your themed ERD image -->
-  <img width="880" alt="PulseCommerce ERD" src="YOUR_ERD_IMAGE_LINK" />
+  <img width="1300" height="800" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
 </div>
 
 <h1 align="center">Insights Deep-Dive</h1>
