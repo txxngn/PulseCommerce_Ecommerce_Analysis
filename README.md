@@ -1,7 +1,5 @@
 <div align="center">
-<img width="800" height="400" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
-
-
+<img width="900" height="400" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
 </div>
 
 <h1 align="center">PulseCommerce — Ecommerce Performance Report</h1>
@@ -13,7 +11,7 @@
       <body>
         <strong>PulseCommerce</strong> is a consumer electronics e-commerce company serving customers globally through web and mobile platforms. <br><br>
 
-
+        The dataset contains <strong>108,129</strong> orders and a region lookup table with <strong>200</strong> records (2019–2022). Reporting to the Head of Operations, this analysis evaluates commercial performance and highlights operational opportunities across sales trends, customer behavior, and refunds/returns. <br><br>
 
         The key insights and recommendations focus on the following areas:
       </body>
@@ -31,6 +29,7 @@
   </tr>
 </table>
 
+
 <table align="center">
   <tr>
     <div width="920">
@@ -38,8 +37,8 @@
 
       <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
-        <!-- Replace with your sales trend image -->
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="YOUR_SALES_TREND_IMAGE_LINK" />
+        <!-- Replace with  sales trend image -->
+        
       </div>
 
       <td width="460" valign="top">
@@ -93,7 +92,7 @@
 </body>
 
 <div align="center">
-  <img width="800" height="500" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
+  <img width="900" height="500" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
 </div>
 
 <h1 align="center">Insights Deep-Dive</h1>
