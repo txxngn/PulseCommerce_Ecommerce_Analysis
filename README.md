@@ -1,5 +1,6 @@
 <div align="center">
-<img width="900" height="250" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
+<img width="1072" height="276" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
+
 </div>
 
 <h1 align="center">PulseCommerce — Ecommerce Performance Report</h1>
@@ -92,7 +93,7 @@
 </body>
 
 <div align="center">
-  <img width="900" height="350" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
+  <img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
 </div>
 
 <h1 align="center">Insights Deep-Dive</h1>
