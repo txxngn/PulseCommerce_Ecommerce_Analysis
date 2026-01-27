@@ -1,5 +1,5 @@
 <div align="center">
-<img width="900" height="280" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
+<img width="700" height="400" alt="PulseCommerce_logo1" src="https://github.com/user-attachments/assets/c15345c1-a025-45fd-ba3a-f896c187091f" />
 
 
 </div>
@@ -93,7 +93,7 @@
 </body>
 
 <div align="center">
-  <img width="700" height="400" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
+  <img width="700" height="500" alt="PulseCommerce_ERD" src="https://github.com/user-attachments/assets/17e443e9-66d5-4eed-94cf-ad337aa2b775" />
 </div>
 
 <h1 align="center">Insights Deep-Dive</h1>
