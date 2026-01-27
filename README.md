@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1536" height="1024" alt="PulseCommerce_logo" src="https://github.com/user-attachments/assets/b11c8de4-1360-4b64-8bb9-1911d2d8f635" />
+<img width="320px" src="https://github.com/user-attachments/assets/b11c8de4-1360-4b64-8bb9-1911d2d8f635" />
 
 </div>
 
