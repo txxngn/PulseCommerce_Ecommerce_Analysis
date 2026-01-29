@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1072" height="276" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
 </div>
 
 <h1 align="center">Ecommerce Performance Report</h1>
