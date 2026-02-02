@@ -39,8 +39,10 @@
     </div>
     </tr>
   
-   <tr>  
+   <tr>
+    
 <div >
+<h2> KPI Trends: AOV, Order count and Revenue from 2019 - 2022 </h2>
 <img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
 </div>
     </tr>
