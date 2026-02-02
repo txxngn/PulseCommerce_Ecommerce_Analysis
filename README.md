@@ -36,57 +36,25 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-
-      <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
-      <div align="center">
-        <!-- Replace with  sales trend image -->
-        
-      </div>
-
-      <td width="460" valign="top">
-        <ol>
-          <li>
-            <strong>Peak performance:</strong>
-            <ul>
-              <li>[Key takeaway #1]</li>
-              <li>[Key takeaway #2]</li>
-              <li>[Key takeaway #3]</li>
-            </ul>
-          </li>
-
-          <li>
-            <strong>Changes / declines / anomalies:</strong>
-            <ul>
-              <li>[Key takeaway #1]</li>
-              <li>[Key takeaway #2]</li>
-            </ul>
-          </li>
-        </ol>
-      </td>
-
-      <td width="460" valign="top">
-        <ol start="3">
-          <li>
-            <strong>Seasonality & behavioral patterns:</strong>
-            <ul>
-              <li>[Key takeaway #1]</li>
-              <li>[Key takeaway #2]</li>
-            </ul>
-          </li>
-
-          <li>
-            <strong>Recommendations (high level):</strong>
-            <ul>
-              <li>[Recommendation #1]</li>
-              <li>[Recommendation #2]</li>
-              <li>[Recommendation #3]</li>
-            </ul>
-          </li>
-        </ol>
-      </td>
     </div>
-  </tr>
-</table>
+    </tr>
+  
+   <tr>  
+<div >
+<img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
+</div>
+    </tr>
+    </table>
+    
+      
+      
+      
+
+
+
+
+
+      
 
 <h2 align="center">Dataset Structure</h2>
 <body>
