@@ -106,28 +106,21 @@
 
 <!-- LOYALTY -->
 <h1 align="center">Loyalty Program</h1>
-<table align="center">
-  <tr align="center">
-    <td width="1000">
-      <img width="450" alt="AOV by loyalty" src="YOUR_LOYALTY_AOV_IMAGE" />
-    </td>
-    <td width="1000">
-      <img width="450" alt="Orders by loyalty" src="YOUR_LOYALTY_ORDERS_IMAGE" />
-    </td>
-  </tr>
-</table>
+<h2> Loyalty vs Non-Loyalty: AOV and Order Volume Trends (2019–2022) </h2>
+<img width="1148" height="977" alt="LvsNL" src="https://github.com/user-attachments/assets/e0d4ea0b-6683-4649-9f66-c66438200b29" />
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>[Insight #1]</li>
-        <li>[Insight #2]</li>
-        <li>[Insight #3]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <!-- REFUNDS -->
 <h1 align="center">Refunds</h1>
