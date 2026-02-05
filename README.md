@@ -49,31 +49,26 @@
     </table>
     
       
-      
-<div >
-<img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/b5c28558-026c-4031-adc4-ff86c708e712" />
-
-</div>      
-
-
-
-
 
       
 
 <h2 align="center">Dataset Structure</h2>
-<body>
-
-</body>
-
 <div align="center">
   <img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
 </div>
 
+
+
+
+
+
+
+
 <h1 align="center">Insights Deep-Dive</h1>
 
+
 <!-- SALES TRENDS -->
-<h1 align="center">Sales Trends</h1>
+<h2 align="center">Sales Trends</h2>
 <table align="center">
   <tr>
     <td width="1000" align="center">
@@ -87,6 +82,8 @@
     </td>
   </tr>
 </table>
+
+
 
 <table>
   <tr>
@@ -107,19 +104,37 @@
   </tr>
 </table>
 
-<!-- LOYALTY -->
-<h1 align="center">Loyalty Program</h1>
-<h2> Loyalty vs Non-Loyalty: AOV and Order Volume Trends (2019–2022) </h2>
-<img width="1148" height="977" alt="LvsNL" src="https://github.com/user-attachments/assets/e0d4ea0b-6683-4649-9f66-c66438200b29" />
 
+<!-- Product TRENDS -->
+<h2 align="center">Product Performance</h2>
+<div align="center">
+<img width="1117" height="635" alt="ProductPerformance" src="https://github.com/user-attachments/assets/8fba3a40-66b4-4952-943c-291e9e5e8d2a" />
+
+</div>
+
+
+<div align="center">
+  <img width="762" height="283" alt="ProductHeatMap" src="https://github.com/user-attachments/assets/04f6cc5a-de16-44b5-bd81-31a00392460f" />
 
 </div>
 
 
 
+<!-- LOYALTY -->
+<h2 align="center">Loyalty Program</h2>
+<h2> Loyalty vs Non-Loyalty: AOV and Order Volume Trends (2019–2022) </h2>
+
+<div>
+<img width="1148" height="977" alt="LvsNL" src="https://github.com/user-attachments/assets/e0d4ea0b-6683-4649-9f66-c66438200b29" />
+</div>
 
 
 
+<!-- Region -->
+ <h2 align="center">Region Results</h2>     
+<div >
+<img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/b5c28558-026c-4031-adc4-ff86c708e712" />
+</div>      
 
 
 
@@ -149,6 +164,14 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
 
 <!-- RECOMMENDATIONS -->
 <h1>Recommendations</h1>
