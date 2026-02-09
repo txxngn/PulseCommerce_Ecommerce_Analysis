@@ -72,13 +72,13 @@
 <table align="center">
   <tr>
     <td width="1000" align="center">
-      <img width="300" alt="Sales" src="YOUR_SALES_CHART" />
+      SALES chart
     </td>
     <td width="1000" align="center">
-      <img width="300" alt="AOV" src="YOUR_AOV_CHART" />
+      aov chart
     </td>
     <td width="1000" align="center">
-      <img width="300" alt="Orders" src="YOUR_ORDERS_CHART" />
+      order number chart
     </td>
   </tr>
 </table>
@@ -94,7 +94,6 @@
         <li>[Insight #2]</li>
         <li>[Insight #3]</li>
       </ol>
-
       <strong>So what?</strong>
       <ul>
         <li>[Business implication #1]</li>
@@ -109,13 +108,11 @@
 <h2 align="center">Product Performance</h2>
 <div align="center">
 <img width="1117" height="635" alt="ProductPerformance" src="https://github.com/user-attachments/assets/8fba3a40-66b4-4952-943c-291e9e5e8d2a" />
-
 </div>
 
 
 <div align="center">
   <img width="762" height="283" alt="ProductHeatMap" src="https://github.com/user-attachments/assets/04f6cc5a-de16-44b5-bd81-31a00392460f" />
-
 </div>
 
 
@@ -145,25 +142,20 @@
 <table align="center">
   <tr>
     <td width="500" align="center">
-      <img width="450" alt="Refund rate by year" src="YOUR_REFUNDS_BY_YEAR_IMAGE" />
+      <h2 align="center">Refund Rate per Product Type</h2> 
+      <img width="657" height="291" alt="refundrate" src="https://github.com/user-attachments/assets/1fdf0fb2-731b-451d-b7ac-0abd8c16b5b1" />
     </td>
     <td width="500" align="center">
-      <img width="450" alt="Refund rate by product" src="YOUR_REFUNDS_BY_PRODUCT_IMAGE" />
-    </td>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </td>
+    
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>[Insight #1]</li>
-        <li>[Insight #2]</li>
-        <li>[Insight #3]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 
