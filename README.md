@@ -15,7 +15,7 @@
         <br>
         Reporting to the Head of Operations, an analysis was conducted to evaluate <strong>PulseCommerce’s</strong> performance over the past several years and surface actionable insights for cross-functional teams. The key insights and recommendations focus on the following areas:
       </body>
-      
+    
 <h3>Northstar Metrics</h3>
 <ul>
   <li><strong>Sales trends</strong> - Tracking sales revenue, number of orders placed, and average order value (AOV) over time.</li>
@@ -30,28 +30,34 @@
 
 
 
-
-
-<table align="center">
-  <tr>
-    <div width="920">
-      <h1 align="center">Executive Summary</h1>
-    </div>
-    </tr>
-
-   <tr>   
-<div >
-<h2> KPI Trends: AOV, Order count and Revenue from 2019 - 2022 </h2>
-<img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
+<div width="920">
+    <h1 align="center">Executive Summary</h1>
 </div>
-    </tr>
-    </table>
+<table align="center">
+   <tr>   
+  <div>
+    <h3 align="center"> KPI Trends: AOV, Order count and Revenue from 2019 - 2022 </h3>
+    <img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
+  </div>
+     <tr width="1440"> 
+From 2019 to 2022, PulseCommerce generated <strong>$28.1M in total revenue</strong> across <strong>108K+ orders</strong>, with an <strong>average AOV of ~$260</strong>. Performance peaked in <strong>2020</strong>, culminating in <strong>$1.25M in monthly sales (Dec 2020)</strong>, followed by a sustained decline that bottomed out at <strong>$178K in Oct 2022</strong>.<br>
+<br>
+Across the period, <strong>revenue volatility is primarily driven by changes in order volume</strong>, not pricing. While AOV fluctuated within a relatively stable range ($216–$322), sharp revenue movements consistently aligned with expansions or contractions in order count. This explains periods where order volume remained elevated but revenue softened, as well as periods where stable AOV failed to offset declining demand.<br>
+<br>
+The 2022 downturn reflects a <strong>structural demand decline rather than an AOV collapse</strong>, signaling challenges in customer acquisition, retention, or purchase frequency. The sections that follow decompose this performance into its core drivers—sales trends, product mix, loyalty behavior, and regional dynamics—to identify where and why volume erosion occurred.<br><br>      
+       </tr>
+  </tr>
+
+</table>
     
       
 
       
 
 <h1 align="center">Dataset Structure</h1>
+<div>
+  The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+</div>
 <div align="center">
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
 </div>
