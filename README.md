@@ -38,9 +38,8 @@
       <h1 align="center">Executive Summary</h1>
     </div>
     </tr>
-  
-   <tr>
-    
+
+   <tr>   
 <div >
 <h2> KPI Trends: AOV, Order count and Revenue from 2019 - 2022 </h2>
 <img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
@@ -52,9 +51,9 @@
 
       
 
-<h2 align="center">Dataset Structure</h2>
+<h1 align="center">Dataset Structure</h1>
 <div align="center">
-  <img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
 </div>
 
 
@@ -65,25 +64,21 @@
 
 
 <h1 align="center">Insights Deep-Dive</h1>
-
-
 <!-- SALES TRENDS -->
-<h2 align="center">Sales Trends</h2>
 <table align="center">
   <tr>
-    <td width="1000" align="center">
-      SALES chart
+    <h2 align="center">Sales Trend</h2>
+    <td width="1000">
+      <img width="1210" height="1066" alt="SaleTrend" src="https://github.com/user-attachments/assets/e2e85b1e-e9c4-492e-992f-4639b03bf4e9" />
     </td>
-    <td width="1000" align="center">
-      aov chart
+    <td width="1000">
+      <img width="1213" height="1072" alt="AOV" src="https://github.com/user-attachments/assets/e71d9eeb-d899-4b0f-b184-ffb035878cbf" />
     </td>
-    <td width="1000" align="center">
-      order number chart
+    <td width="1000">
+      <img width="1205" height="1056" alt="NumofOrderTrend" src="https://github.com/user-attachments/assets/970a5384-7744-47fd-bdca-84ffe2057ff1" />
     </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -109,8 +104,6 @@
 <div align="center">
 <img width="1117" height="635" alt="ProductPerformance" src="https://github.com/user-attachments/assets/8fba3a40-66b4-4952-943c-291e9e5e8d2a" />
 </div>
-
-
 <div align="center">
   <img width="762" height="283" alt="ProductHeatMap" src="https://github.com/user-attachments/assets/04f6cc5a-de16-44b5-bd81-31a00392460f" />
 </div>
@@ -119,8 +112,7 @@
 
 <!-- LOYALTY -->
 <h2 align="center">Loyalty Program</h2>
-<h2> Loyalty vs Non-Loyalty: AOV and Order Volume Trends (2019–2022) </h2>
-
+<h3> Loyalty vs Non-Loyalty: AOV and Order Volume Trends (2019–2022) </h3>
 <div>
 <img width="1148" height="977" alt="LvsNL" src="https://github.com/user-attachments/assets/e0d4ea0b-6683-4649-9f66-c66438200b29" />
 </div>
@@ -136,9 +128,8 @@
 
 
 
-
 <!-- REFUNDS -->
-<h1 align="center">Refunds</h1>
+<h2 align="center">Refunds</h2>
 <table align="center">
   <tr>
     <td width="500" align="center">
@@ -155,9 +146,6 @@
     
   </tr>
 </table>
-
-
-
 
 
 
