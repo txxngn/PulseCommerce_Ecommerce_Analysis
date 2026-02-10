@@ -105,7 +105,7 @@
 <img width="1117" height="635" alt="ProductPerformance" src="https://github.com/user-attachments/assets/8fba3a40-66b4-4952-943c-291e9e5e8d2a" />
 </div>
 <div align="center">
-  <img width="762" height="283" alt="ProductHeatMap" src="https://github.com/user-attachments/assets/04f6cc5a-de16-44b5-bd81-31a00392460f" />
+<img width="728" height="302" alt="ProductHeatMap1" src="https://github.com/user-attachments/assets/169eb1e1-0187-4855-a499-c0fbd8b6f14d" />
 </div>
 
 
