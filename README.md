@@ -205,9 +205,43 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <!-- Product TRENDS -->
 <h2 align="center">Product Performance</h2>
 <div align="center">
+<h3>Revenue is highly concentrated in a few core SKUs, and the 2022 decline is broad-based across top products</h3>
 <img width="1117" height="635" alt="ProductPerformance" src="https://github.com/user-attachments/assets/8fba3a40-66b4-4952-943c-291e9e5e8d2a" />
 </div>
+
+<table align="center">
+<tr>
+<td width="333" valign="top">
+<h3>Revenue Concentration (Winners vs. Laggards)</h3>
+<ul>
+        <li><strong>Top 3 SKUs drive ~85% of total revenue</strong> ($28.11M overall) - <strong>27in 4K gaming monitor ($9.85M)</strong>, <strong>Apple AirPods Headphones ($7.74M)</strong>, <strong>MacBook Air Laptop ($6.30M)</strong>.</li>
+        <li><strong>ThinkPad Laptop ($3.21M)</strong> is the only meaningful tier-2 product; the remaining accessories are comparatively small (each under $0.45M).</li>
+        <li><strong>Apple iPhone ($213K)</strong> and <strong>Bose SoundSport headphones ($3.3K)</strong> are extreme low performers for typically high-demand categories - this may indicate limited availability, incomplete catalog coverage, or data capture gaps.</li>
+</ul>
+</td>
+  
+<td width="333" valign="top">
+    <h3>Momentum Shift (2020 Surge, 2022 Unwind)</h3>
+      <ul>
+        <li>Holiday performance expanded sharply in 2020: <strong>Q4 2020 revenue = $3.03M</strong> vs <strong>Q4 2019 = $1.18M</strong> (+158%), driven primarily by the top SKUs.</li>
+        <li>2022 breaks the historical pattern: <strong>Q4 2022 = $649K</strong>, down <strong>-72% vs Q4 2021 ($2.28M)</strong>, indicating a demand, supply, or tracking issue impacting multiple product lines at once.</li>
+        <li>The drop is most severe in premium products: <strong>MacBook Air Q4 2022 is down ~83% vs Q4 2021</strong> ($86.6K vs $513.8K), suggesting higher price points are more exposed when consumer spending tightens.</li>
+      </ul>
+    </td>
+
+<td width="333" valign="top">
+      <h3>Heatmap Takeaways (Seasonality and Execution Risk)</h3>
+      <ul>
+        <li>Recurring <strong>Q4 spikes</strong> across major products suggest promotions and holiday demand are key revenue drivers - stakeholders may need to align inventory planning and marketing spend tightly ahead of peak season.</li>
+        <li>Post-holiday softness in early quarters appears consistently, indicating seasonality - a strong lever here is retention (bundles, add-ons, and reactivation campaigns) to stabilize Q1-Q2 volume.</li>
+        <li>Because revenue is concentrated, <strong>stockouts, pricing changes, or channel tracking issues on 1-2 top SKUs can materially move company-wide sales</strong> - leadership should monitor these SKUs as “business-critical” health indicators.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
+<h3>Product Sales Heat Map by Quarter</h3>
 <img width="728" height="302" alt="ProductHeatMap1" src="https://github.com/user-attachments/assets/169eb1e1-0187-4855-a499-c0fbd8b6f14d" />
 </div>
 
