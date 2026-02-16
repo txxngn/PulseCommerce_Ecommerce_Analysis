@@ -86,23 +86,120 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <strong>What we found</strong>
-      <ol>
-        <li>[Insight #1]</li>
-        <li>[Insight #2]</li>
-        <li>[Insight #3]</li>
-      </ol>
-      <strong>So what?</strong>
+    <td width="1440">
+      <h3>Sales Revenue</h3> 
+<ol>
+        <li>
+          Q4 2022 Collapse Breaks the “Holiday Peak” Pattern (Red-Flag Anomaly)
+          <ul>
+            <li>Historically, Q4 (Oct-Dec) is the strongest stretch of the year, but 2022 does the opposite - revenue falls off a cliff.</li>
+            <li><strong>Oct 2022 hit $178K</strong>, the <strong>lowest month in the entire 2019-2022 window</strong>, then only partially recovered in <strong>Nov $208K</strong> and <strong>Dec $262K</strong>.</li>
+            <li><strong>Dec 2022 ($262K)</strong> is down <strong>~70% vs Dec 2021 ($882K)</strong> and <strong>~79% vs Dec 2020 ($1.25M)</strong>.</li>
+            <li>On a quarter level, <strong>Q4 2022 = $649K</strong>, down <strong>~72% vs Q4 2021 ($2.28M)</strong> and <strong>~79% vs Q4 2020 ($3.03M)</strong>.</li>
+          </ul> 
+        </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates either (1) a real business shock (demand, competition, supply constraints), or (2) a <strong>data capture/completeness gap</strong> specifically impacting late-2022 reporting - either way, it is something stakeholders must validate before trusting forecasts.
+</div>
+
+  
+<br>  
+<li>
+      Pandemic Demand Spike, then a Clear Post-Peak Normalization (2019-2022)
+          <ul>
+            <li>2019 is relatively steady (mostly <strong>$247K-$458K/month</strong>), then 2020 shows a step-change: <strong>Mar 2020 jumps to $720K</strong> and demand stays structurally higher through 2021.</li>
+            <li>2020 peaks in <strong>Dec 2020 at $1.25M</strong> (highest month overall), showing strong seasonal + pandemic pull-forward.</li>
+            <li>2021 remains elevated but cools vs 2020 (still many months in the <strong>$640K-$850K</strong> range).</li>
+            <li>2022 trends downward most of the year (Jan <strong>$705K</strong> -&gt; Sep <strong>~$398K</strong>) before the Q4 crash.</li>
+          </ul>
+</li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This suggests the business rode a one-time demand tailwind in 2020, then faced weaker acquisition/retention efficiency or softer consumer spend by 2022.
+</div>
+</ol>
+
+<strong>Why this matters to stakeholders</strong>
       <ul>
-        <li>[Business implication #1]</li>
-        <li>[Business implication #2]</li>
+        <li><strong>Finance/Planning</strong>: If Q4 2022 is "real," it signals a major revenue risk and changes how you set targets and budgets. If it is "missing data," it creates false alarms and bad decisions.</li>
+        <li><strong>Marketing</strong>: Q4 is where budgets are often highest; a Q4 breakdown suggests campaign performance, tracking, or channel ROI may have deteriorated.</li>
+        <li><strong>Ops/Supply Chain</strong>: A sudden revenue drop can be consistent with stockouts, shipping limitations, or product availability issues - operational teams need to confirm whether inventory and fulfillment capacity matched demand.</li>
       </ul>
-    </td>
-  </tr>
+  
+
+<br>
+<h3>Average Order Value</h3>
+<ol>
+        <li>
+          AOV Peaks in 2020, then Slides Back Toward 2019 Levels (Mix Shift Reversal)
+          <ul>
+            <li>AOV rises sharply during the 2020 surge, peaking at <strong>~$322 (Aug/Oct 2020 range)</strong>, compared to <strong>~$217-$245 in 2019</strong>.</li>
+            <li>By 2021-2022, AOV drifts downward and stabilizes near pre-peak levels; <strong>2022 sits ~ $221-$256</strong>, with year-level AOV back around <strong>~$230</strong>.</li>
+          </ul>
+        </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates 2020 likely had a higher-priced product mix (premium devices / higher basket sizes), and that mix did not hold post-peak.
+</div>
+  
+<br>
+<li>Q4 2022 AOV Drops - But Not Enough to Explain the Revenue Collapse
+          <ul>
+            <li><strong>Oct 2022 AOV is $216</strong> (lowest point), then <strong>Dec 2022 rebounds to ~$234</strong> - still not catastrophic on its own.</li>
+            <li>Even in Q4, the bigger story is volume: AOV is down modestly, but revenue is down massively.</li>
+          </ul>
+        </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This suggests discounting, cheaper product mix, or fewer premium purchases in late 2022 - but AOV alone is not the root cause of the sales free-fall.
+</div>
+      </ol>
+
+<strong>Why this matters to stakeholders</strong>
+      <ul>
+        <li><strong>Merchandising/Product</strong>: AOV trends reveal whether revenue changes are coming from <strong>pricing/mix</strong> vs customer traffic.</li>
+        <li><strong>Marketing + Growth</strong>: If AOV is flat but revenue drops, acquisition and repeat purchase frequency are the bigger levers than upsell/cross-sell.</li>
+        <li><strong>Leadership</strong>: AOV stability helps narrow the "why" quickly - preventing teams from blaming price changes when the real issue is demand or conversion.</li>
+      </ul>
+
+
+<br>
+<h3>Order Count</h3>
+<ol>
+  <li>
+          Revenue Decline is Primarily a Demand/Volume Problem (Not a Pricing Problem)
+          <ul>
+            <li>Order count tracks revenue extremely closely across the four years, which is a strong signal that <strong>volume is driving the business outcome</strong>.</li>
+            <li>2020 scales up and peaks at <strong>4,019 orders (Dec 2020)</strong>, matching the revenue peak.</li>
+            <li>2022 steadily decays and then breaks in Q4: <strong>Oct 2022 falls to 825 orders</strong>, then <strong>Dec 2022 only reaches 1,120</strong>.</li>
+            <li><strong>Q4 2022 orders = 2,866</strong>, down <strong>~69% vs Q4 2021 (9,366)</strong> and <strong>~71% vs Q4 2020 (9,740)</strong>.</li>
+          </ul>
+        </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates the business did not just "sell cheaper" in late 2022 - it processed far fewer transactions.
+</div> 
+
+<br>
+<li>Mid-Late 2022 is the Inflection Point (Where the Trend Becomes a Problem)
+          <ul>
+            <li>From mid-2022, order volume weakens (e.g., <strong>Jul 2,034 -&gt; Sep 1,553 -&gt; Oct 825</strong>).</li>
+            <li>That drop aligns with the sharp revenue decline, which suggests conversion, traffic, availability, or customer retention issues intensified into Q4.</li>
+          </ul>
+        </li>
+      </ol>
+
+<strong>Why this matters to stakeholders</strong>
+<ul>
+        <li><strong>Growth/Marketing</strong>: Order count is the clearest "health signal" for acquisition + conversion. If orders fall while AOV is stable, the team may need to audit funnel performance (traffic, CVR), channel mix, and retention.</li>
+        <li><strong>Customer/Operations</strong>: Fewer orders can also indicate customer experience friction (shipping delays, stockouts, returns/refunds perception) that reduces repeat purchasing.</li>
+        <li><strong>Forecasting</strong>: Volume-driven downturns typically require different interventions than price-driven downturns - stakeholders need to know which lever to pull before spending budget in the wrong place.</li>
+</ul>
+</td>
+</tr>
 </table>
+
+
+
+
 
 
 <!-- Product TRENDS -->
