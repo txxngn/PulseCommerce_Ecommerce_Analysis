@@ -126,9 +126,8 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
         <li><strong>Marketing</strong>: Q4 is where budgets are often highest; a Q4 breakdown suggests campaign performance, tracking, or channel ROI may have deteriorated.</li>
         <li><strong>Ops/Supply Chain</strong>: A sudden revenue drop can be consistent with stockouts, shipping limitations, or product availability issues - operational teams need to confirm whether inventory and fulfillment capacity matched demand.</li>
       </ul>
-  
 
-<br>
+  
 <h3>Average Order Value</h3>
 <ol>
         <li>
@@ -161,8 +160,6 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
         <li><strong>Leadership</strong>: AOV stability helps narrow the "why" quickly - preventing teams from blaming price changes when the real issue is demand or conversion.</li>
       </ul>
 
-
-<br>
 <h3>Order Count</h3>
 <ol>
   <li>
