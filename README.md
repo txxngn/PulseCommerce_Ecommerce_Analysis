@@ -244,7 +244,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <h3>Product Sales Heat Map by Quarter</h3>
 <img width="728" height="302" alt="ProductHeatMap1" src="https://github.com/user-attachments/assets/169eb1e1-0187-4855-a499-c0fbd8b6f14d" />
 </div>
-
+<br>
 
 
 <!-- LOYALTY -->
@@ -253,6 +253,70 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <div>
 <img width="1148" height="977" alt="LvsNL" src="https://github.com/user-attachments/assets/e0d4ea0b-6683-4649-9f66-c66438200b29" />
 </div>
+
+<br>
+<ul>
+  <li>
+    <strong>Loyalty scales order frequency without shrinking basket size</strong> - a strong signal the program isn’t growing purely from discounts.
+    <ul>
+      <li>As monthly Loyalty orders ramp into the <strong>thousands</strong> during 2020-2021, Loyalty AOV rebounds from the early low (~<strong>$130</strong>) and stabilizes around the <strong>mid-$200s</strong> (peaking near <strong>$259</strong>).</li>
+    </ul>
+  </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates Loyalty growth is driven by <strong>repeat purchasing</strong> and a healthier customer mix, not just “cheap incentive orders” that typically drag AOV down.
+</div>
+
+<br>
+
+  <li>
+    <strong>Non-loyal behaves like a spike-driven segment</strong> - when demand cools, both frequency and basket value compress.
+    <ul>
+      <li>Non-loyal AOV peaks around <strong>$384</strong> during the 2020 boom, then trends down toward the <strong>low-$200s</strong> by 2022, while monthly order volume also declines later in the period.</li>
+    </ul>
+  </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This suggests non-loyal revenue is more exposed to <strong>macro conditions</strong>, <strong>acquisition bursts</strong>, and <strong>promotion cycles</strong>, creating higher volatility.
+</div>
+
+<br>
+  <li>
+    <strong>The clearest “loyalty value” moments are when orders are similar but Loyalty AOV is materially higher</strong>.
+    <ul>
+      <li><strong>Jun 2022</strong>: orders are nearly identical (<strong>935 Non-loyal</strong> vs <strong>962 Loyalty</strong>), but AOV is <strong>$182</strong> vs <strong>$260</strong> (Loyalty ~<strong>43%</strong> higher).</li>
+      <li><strong>Aug 2022</strong>: orders are almost the same (<strong>914</strong> vs <strong>920</strong>), but AOV is <strong>$187</strong> vs <strong>$246</strong> (Loyalty ~<strong>31%</strong> higher).</li>
+    </ul>
+  </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates Loyalty members are buying <strong>higher-priced items</strong> and/or <strong>larger bundles</strong>, signaling stronger customer quality and likely higher LTV.</div>
+
+<br>
+  <li>
+    <strong>Late-2022 shows a broad volume decline across both segments</strong> - worth monitoring, but the Loyalty value signal remains.
+    <ul>
+      <li>Both order lines compress sharply in late 2022, suggesting a broader business issue (demand slowdown, inventory constraints, channel performance, or tracking).</li>
+    </ul>
+  </li>
+<div style="margin-left: 22px;">
+<span style="font-size: 18px; font-weight: 700;">➤</span> Even in this environment, the “similar orders + higher Loyalty AOV” pattern earlier in 2022 suggests the program acts as a <strong>revenue-quality stabilizer</strong> rather than just a discount engine.
+</div>
+
+</ul>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
