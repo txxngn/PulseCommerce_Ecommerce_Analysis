@@ -92,7 +92,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
       <h3>Sales Revenue</h3> 
 <ol>
         <li>
-          Q4 2022 Collapse Breaks the “Holiday Peak” Pattern (Red-Flag Anomaly)
+          Q4 2022 Collapse Breaks the “Holiday Peak” Pattern (Material Anomaly)
           <ul>
             <li>Historically, Q4 (Oct-Dec) is the strongest stretch of the year, but 2022 does the opposite - revenue falls off a cliff.</li>
             <li><strong>Oct 2022 hit $178K</strong>, the <strong>lowest month in the entire 2019-2022 window</strong>, then only partially recovered in <strong>Nov $208K</strong> and <strong>Dec $262K</strong>.</li>
