@@ -26,7 +26,7 @@
 
   </tr>
 </table>
-
+<br>
 
 
 
@@ -61,7 +61,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <div align="center">
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/50346c48-8df6-4285-a964-a4c9c25ded2f" />
 </div>
-
+<br>
 
 
 
@@ -193,7 +193,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 </td>
 </tr>
 </table>
-
+<br>
 
 
 
@@ -303,35 +303,6 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Region -->
- <h2 align="center">Region Results</h2>     
-<div >
-<img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/b5c28558-026c-4031-adc4-ff86c708e712" />
-</div>   
-<br>
-<ul>
-  <li><strong>North America and EMEA are the core revenue engines</strong> - together they generate roughly <strong>~85% of total revenue</strong>, so performance in these regions will largely determine whether company targets are met.</li>
-  <li><strong>The 2020 surge and 2022 decline are broad-based across regions</strong> (not isolated to one market), indicating the business was impacted by macro demand shifts rather than a single-region execution issue.</li>
-  <li><strong>APAC is the clearest diversification opportunity</strong> (peaked around <strong>$1.3M</strong> in 2020-2021), while <strong>LATAM remains small</strong> (under <strong>$0.6M</strong> at peak) and may require targeted experimentation instead of heavy investment.</li>
-</ul>
-
-
-
-
 <!-- REFUNDS -->
 <h2 align="center">Refunds</h2>
 <table align="center">
@@ -355,23 +326,82 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 
 
 
+<br>
+<!-- Region -->
+ <h2 align="center">Region Results</h2>     
+<div >
+<img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/b5c28558-026c-4031-adc4-ff86c708e712" />
+</div>   
+<br>
+<ul>
+  <li><strong>North America and EMEA are the core revenue engines</strong> - together they generate roughly <strong>~85% of total revenue</strong>, so performance in these regions will largely determine whether company targets are met.</li>
+  <li><strong>The 2020 surge and 2022 decline are broad-based across regions</strong> (not isolated to one market), indicating the business was impacted by macro demand shifts rather than a single-region execution issue.</li>
+  <li><strong>APAC is the clearest diversification opportunity</strong> (peaked around <strong>$1.3M</strong> in 2020-2021), while <strong>LATAM remains small</strong> (under <strong>$0.6M</strong> at peak) and may require targeted experimentation instead of heavy investment.</li>
+</ul>
+<br>
+
+
 
 
 <!-- RECOMMENDATIONS -->
-<h1>Recommendations</h1>
-<h4>Actionable next steps based on the insights above.</h4>
+<h1 align="center">Recommendations</h1>
+<h4>Based on the insights above, the following actions prioritize volume recovery, protect revenue concentration, and improve measurement confidence for stakeholder decision-making.</h4>
 <ul>
   <h3>Sales</h3>
-  <li>[Recommendation #1]</li>
-  <li>[Recommendation #2]</li>
+        <li>Validate late-2022 reporting before using it for forecasting or performance evaluation.</li>
+        <ul>
+          <li>Q4 2022 revenue = $649K vs $2.28M (Q4 2021) and $3.03M (Q4 2020).</li>
+          <li>Refunds show 0% across all products in 2022, suggesting potential event capture or status completeness gaps.</li>
+          <li>Action: reconcile orders vs order_status coverage for Oct-Dec 2022 (refund_ts, ship_ts, delivery_ts completeness) before setting targets.</li>
+        </ul>
+
+<li>Prioritize order volume recovery, since revenue volatility is primarily demand-driven.</li>
+        <ul>
+          <li>Order volume peaks at 4,019 orders (Dec 2020) and drops to 825 (Oct 2022), while AOV stays within a relatively stable range ($216-$322).</li>
+          <li>Action: run a funnel and cohort cut (new vs returning, channel, region, loyalty) to isolate where volume erosion occurred and which levers (traffic, conversion, repeat rate) will move revenue fastest.</li>
+        </ul>
+
+  
+
+<h3>Products</h3>
+<li>Protect and monitor the hero product lines that drive most revenue.</li>
+        <ul>
+          <li>Top 3 products drive ~85% of revenue: 27in 4K gaming monitor ($9.85M), AirPods ($7.74M), MacBook Air ($6.30M).</li>
+          <li>Action: set weekly checks for in-stock rate, price changes, and promotion timing on these products to reduce company-wide volatility from single-product issues.</li>
+        </ul>
+<li>Investigate product catalog coverage for extreme low performers before making merchandising decisions.</li>
+        <ul>
+          <li>Apple iPhone ($213K) and Bose SoundSport ($3.3K) underperform disproportionately for typically high-demand categories.</li>
+          <li>Action: confirm availability, channel coverage, and tracking consistency; if valid, consider deprioritization or repositioning.</li>
+</ul>
+
+        
 
   <h3>Loyalty Program</h3>
-  <li>[Recommendation #1]</li>
-  <li>[Recommendation #2]</li>
-
-  <h3>Refunds</h3>
-  <li>[Recommendation #1]</li>
-
-  <h3>Regions</h3>
-  <li>[Recommendation #1]</li>
+<li>Keep the loyalty program as a retention lever and use it to defend basket quality in down-cycles.</li>
+        <ul>
+          <li>When monthly order volumes are similar, Loyalty AOV is materially higher (e.g., Jun 2022: $260 vs $182, Aug 2022: $246 vs $187).</li>
+          <li>Total (2022): Loyalty AOV $245 vs Non-loyal $214 with comparable total orders (11,107 vs 10,458).</li>
+          <li>Action: focus loyalty offers on repeat frequency and higher-value baskets (bundles, threshold-based perks) rather than broad discounting.</li>
 </ul>
+<li>Measure incrementality to ensure loyalty benefits drive net-new behavior.</li>
+        <ul>
+          <li>Action: use holdout testing or phased rollouts to quantify lift in repeat rate, member revenue per customer, and margin impact.</li>
+        </ul>
+
+
+      
+  <h3>Refunds</h3>
+<li>Reduce refund friction in high-ticket categories to protect margin and customer experience.</li>
+        <ul>
+          <li>Highest historical refund rates: MacBook Air (18% in 2019, 17% in 2020) and ThinkPad (17% in 2019-2020).</li>
+          <li>Action: audit return reasons (defect vs shipping damage vs buyer remorse) and address with QC, packaging, and clearer product expectations.</li>
+        </ul>
+
+<h3>Regions</h3>
+<li>Double down on North America and EMEA for near-term ROI, and diversify selectively.</li>
+        <ul>
+          <li>NA and EMEA generate roughly ~85% of total revenue (NA peaks at $5.3M in 2020; EMEA peaks at $2.9M in 2020).</li>
+          <li>Action: prioritize NA/EMEA targeting and Q4 planning, while scaling APAC through controlled tests (APAC holds $1.3M in 2020-2021) and keeping LATAM as a light-touch experimentation market (peaks $0.6M then drops to $0.3M in 2022).</li>
+</ul>
+
