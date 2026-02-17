@@ -321,7 +321,13 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
  <h2 align="center">Region Results</h2>     
 <div >
 <img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/b5c28558-026c-4031-adc4-ff86c708e712" />
-</div>      
+</div>   
+<br>
+<ul>
+  <li><strong>North America and EMEA are the core revenue engines</strong> - together they generate roughly <strong>~85% of total revenue</strong>, so performance in these regions will largely determine whether company targets are met.</li>
+  <li><strong>The 2020 surge and 2022 decline are broad-based across regions</strong> (not isolated to one market), indicating the business was impacted by macro demand shifts rather than a single-region execution issue.</li>
+  <li><strong>APAC is the clearest diversification opportunity</strong> (peaked around <strong>$1.3M</strong> in 2020-2021), while <strong>LATAM remains small</strong> (under <strong>$0.6M</strong> at peak) and may require targeted experimentation instead of heavy investment.</li>
+</ul>
 
 
 
@@ -334,13 +340,13 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
       <h2 align="center">Refund Rate per Product Type</h2> 
       <img width="657" height="291" alt="refundrate" src="https://github.com/user-attachments/assets/1fdf0fb2-731b-451d-b7ac-0abd8c16b5b1" />
     </td>
-    <td width="500" align="center">
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </td>
+    <td width="500" align="left">
+<ul>
+  <li><strong>Laptops drive the highest refund rates</strong> - <strong>MacBook Air</strong> peaks at <strong>18% (2019)</strong> and <strong>17% (2020)</strong>, and <strong>ThinkPad</strong> reaches <strong>17% (2019-2020)</strong>, suggesting high-ticket items carry the most return friction.</li>
+  <li><strong>Low-price accessories have the lowest refund exposure</strong> - <strong>Bose SoundSport</strong> is <strong>0%</strong> every year, while <strong>Samsung Charging Cable Pack</strong> stays around <strong>1%-3%</strong>, though these products also contribute less overall sales volume.</li>
+  <li><strong>2022 shows 0% refunds across all products</strong> - this is likely a <strong>data completeness issue</strong> rather than a true operational improvement, so 2022 refund conclusions should be treated with caution.</li>
+</ul>
+    </td>
     
   </tr>
 </table>
