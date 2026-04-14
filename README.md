@@ -13,7 +13,7 @@
         <br>
         <strong>PulseCommerce's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
         <br>
-        Reporting to the Head of Operations, an analysis was conducted to evaluate <strong>PulseCommerce’s</strong> performance over the past several years and surface actionable insights for cross-functional teams. The key insights and recommendations focus on the following areas:
+        Reporting to the Head of Operations, an analysis was conducted to evaluate <strong>PulseCommerce’s</strong> performance over the past several years and surface actionable insights for cross-functional teams. The key insights and recommendations focus on the following areas, with an emphasis on validating late-2022 data integrity before any of these findings are used for planning or target-setting::
       </body>
     
 <h3>Northstar Metrics</h3>
