@@ -44,7 +44,7 @@
 <br>
 Across the period, <strong>revenue volatility is primarily driven by changes in order volume</strong>, not pricing. While AOV fluctuated within a relatively stable range ($216–$322), sharp revenue movements consistently aligned with expansions or contractions in order count. This explains periods where order volume remained elevated but revenue softened, as well as periods where stable AOV failed to offset declining demand.<br>
 <br>
-The 2022 downturn reflects a <strong>structural demand decline rather than an AOV collapse</strong>, signaling challenges in customer acquisition, retention, or purchase frequency. The sections that follow decompose this performance into its core drivers—sales trends, product mix, loyalty behavior, and regional dynamics—to identify where and why volume erosion occurred.<br><br>      
+The 2022 downturn reflects a <strong>structural demand decline rather than an AOV collapse</strong>, signaling challenges in customer acquisition, retention, or purchase frequency. The sections that follow decompose this performance into its core drivers-sales trends, product mix, loyalty behavior, and regional dynamics-to identify where and why volume erosion occurred.<br><br>      
        </tr>
   </tr>
 
@@ -336,7 +336,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <ul>
   <li><strong>North America and EMEA are the core revenue engines</strong> - together they generate roughly <strong>~85% of total revenue</strong>, so performance in these regions will largely determine whether company targets are met.</li>
   <li><strong>The 2020 surge and 2022 decline are broad-based across regions</strong> (not isolated to one market), indicating the business was impacted by macro demand shifts rather than a single-region execution issue.</li>
-  <li><strong>APAC is the clearest diversification opportunity</strong> (peaked around <strong>$1.3M</strong> in 2020-2021), while <strong>LATAM remains small</strong> (under <strong>$0.6M</strong> at peak) and may require targeted experimentation instead of heavy investment.</li>
+  <li><strong>APAC is the clearest diversification opportunity</strong> - it peaked at <strong>~$1.3M</strong> in 2020–2021 but dropped alongside global trends in 2022, suggesting its decline mirrors macro demand rather than a regional execution failure. <strong>LATAM remains small</strong> (under <strong>$0.6M</strong> at peak) and its trajectory is unclear given 2022 data reliability concerns; targeted experimentation with controlled spend is more appropriate than scaled investment.</li>
 </ul>
 <br>
 
