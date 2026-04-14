@@ -358,7 +358,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <li>Prioritize order volume recovery, since revenue volatility is primarily demand-driven.</li>
         <ul>
           <li>Order volume peaks at 4,019 orders (Dec 2020) and drops to 825 (Oct 2022), while AOV stays within a relatively stable range ($216-$322).</li>
-          <li>Action: run a funnel and cohort cut (new vs returning, channel, region, loyalty) to isolate where volume erosion occurred and which levers (traffic, conversion, repeat rate) will move revenue fastest.</li>
+          <li>Action: run a funnel and cohort cut (new vs returning, channel, region, loyalty) to isolate where volume erosion occurred. Start with new customer acquisition rate by channel - since AOV held relatively stable, the problem is top-of-funnel demand, not conversion quality or pricing. That narrows the intervention to acquisition and retention spend, not merchandising.</li>
         </ul>
 
   
@@ -405,3 +405,4 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
           <li>Action: prioritize NA/EMEA targeting and Q4 planning, while scaling APAC through controlled tests (APAC holds $1.3M in 2020-2021) and keeping LATAM as a light-touch experimentation market (peaks $0.6M then drops to $0.3M in 2022).</li>
 </ul>
 
+<p><i>The single highest-priority action across all workstreams is validating 2022 data integrity - any targets, budgets, or growth strategies built on 2022 baselines carry material forecast risk until order_status completeness is confirmed.</i>i></p>
