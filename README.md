@@ -101,7 +101,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
           </ul> 
         </li>
 <div style="margin-left: 22px;">
-<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates either (1) a real business shock (demand, competition, supply constraints), or (2) <strong>a data capture/completeness gap</strong> specifically impacting late-2022 reporting. The 0% refund rate across all products in 2022 makes option (2) more likely — a genuine operational improvement of that magnitude would be extraordinary. Either way, stakeholders must reconcile orders vs. order_status for Oct–Dec 2022 before trusting any forecast built on this data.
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates either (1) a real business shock (demand, competition, supply constraints), or (2) <strong>a data capture/completeness gap</strong> specifically impacting late-2022 reporting. The 0% refund rate across all products in 2022 makes option (2) more likely - a genuine operational improvement of that magnitude would be extraordinary. Either way, stakeholders must reconcile orders vs. order_status for Oct–Dec 2022 before trusting any forecast built on this data.
 </div>
 
   
@@ -213,7 +213,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
 <ul>
         <li><strong>Top 3 products drive ~85% of total revenue</strong> ($28.11M overall) - <strong>27in 4K gaming monitor ($9.85M)</strong>, <strong>Apple AirPods Headphones ($7.74M)</strong>, <strong>MacBook Air Laptop ($6.30M)</strong>.</li>
         <li><strong>ThinkPad Laptop ($3.21M)</strong> is the only meaningful tier-2 product; the remaining accessories are comparatively small (each under $0.45M).</li>
-        <li><strong>Apple iPhone ($213K)</strong> and <strong>Bose SoundSport headphones ($3.3K)</strong> are extreme low performers for typically high-demand categories - this may indicate limited availability, incomplete catalog coverage, or data capture gaps.</li>
+        <li><strong>Apple iPhone ($213K)</strong> and <strong>Bose SoundSport headphones ($3.3K)</strong> are extreme low performers for typically high-demand categories. Before making any merchandising decisions, confirm whether these reflect genuine sales weakness or the same data completeness issues flagged in 2022 reporting - a $213K iPhone total across four years is implausible for a consumer electronics retailer of this scale.</li>
 </ul>
 </td>
   
