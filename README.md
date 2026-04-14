@@ -40,7 +40,7 @@
     <img width="1205" height="841" alt="SaleTrendElist" src="https://github.com/user-attachments/assets/5d624b04-cd2e-4b21-9ddb-ae29e011f0e9" />
   </div>
      <tr width="1440"> 
-<strong>PulseCommerce</strong> faces a material revenue crisis: <strong>Q4 2022 collapsed</strong> to $649K — <strong>down 72% year-over-year</strong> — while 2022 refund data shows <strong>0%</strong> across all products, raising serious questions about data completeness before any forecast can be trusted. Against that backdrop, the full 2019–2022 picture shows <strong>$28.1M in total revenue</strong> across <strong>108K+ orders</strong> with an average <strong>AOV of ~$260.</strong><br>
+<strong>PulseCommerce</strong> faces a material revenue crisis: <strong>Q4 2022 collapsed</strong> to $649K - <strong>down 72% year-over-year</strong> - while 2022 refund data shows <strong>0%</strong> across all products, raising serious questions about data completeness before any forecast can be trusted. Against that backdrop, the full 2019–2022 picture shows <strong>$28.1M in total revenue</strong> across <strong>108K+ orders</strong> with an average <strong>AOV of ~$260.</strong><br>
 <br>
 Across the period, <strong>revenue volatility is primarily driven by changes in order volume</strong>, not pricing. While AOV fluctuated within a relatively stable range ($216–$322), sharp revenue movements consistently aligned with expansions or contractions in order count. This explains periods where order volume remained elevated but revenue softened, as well as periods where stable AOV failed to offset declining demand.<br>
 <br>
@@ -101,7 +101,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
           </ul> 
         </li>
 <div style="margin-left: 22px;">
-<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates either (1) a real business shock (demand, competition, supply constraints), or (2) a <strong>data capture/completeness gap</strong> specifically impacting late-2022 reporting - either way, it is something stakeholders must validate before trusting forecasts.
+<span style="font-size: 18px; font-weight: 700;">➤</span> This indicates either (1) a real business shock (demand, competition, supply constraints), or (2) <strong>a data capture/completeness gap</strong> specifically impacting late-2022 reporting. The 0% refund rate across all products in 2022 makes option (2) more likely — a genuine operational improvement of that magnitude would be extraordinary. Either way, stakeholders must reconcile orders vs. order_status for Oct–Dec 2022 before trusting any forecast built on this data.
 </div>
 
   
