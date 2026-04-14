@@ -405,6 +405,7 @@ The 2022 downturn reflects a <strong>structural demand decline rather than an AO
           <li>Action: prioritize NA/EMEA targeting and Q4 planning, while scaling APAC through controlled tests (APAC holds $1.3M in 2020-2021) and keeping LATAM as a light-touch experimentation market (peaks $0.6M then drops to $0.3M in 2022).</li>
 </ul>
 <br><br>
+
 <div>
-<p><i>The single highest-priority action across all workstreams is validating 2022 data integrity - any targets, budgets, or growth strategies built on 2022 baselines carry material forecast risk until order_status completeness is confirmed.</i>i></p>
+<p><i>The single highest-priority action across all workstreams is validating 2022 data integrity - any targets, budgets, or growth strategies built on 2022 baselines carry material forecast risk until order_status completeness is confirmed.</i></p>
 </div>
