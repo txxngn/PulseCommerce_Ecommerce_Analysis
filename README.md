@@ -3,7 +3,7 @@
 > or budget decision could be made, the answer had to come from the data itself.
 >
 > **What I found:** The collapse was real - driven entirely by order volume erosion, not 
-> pricing — but 2022 refund data showed 0% across all products, flagging a data completeness 
+> pricing - but 2022 refund data showed 0% across all products, flagging a data completeness 
 > gap that would corrupt any forecast built on it. Revenue is also dangerously concentrated: 
 > 3 products drive ~85% of $28.1M in total sales.
 >
