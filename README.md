@@ -1,3 +1,24 @@
+> **Business problem:** PulseCommerce's revenue collapsed 72% in Q4 2022 — but leadership 
+> couldn't tell if the company was in crisis or if the data was broken. Before any forecast 
+> or budget decision could be made, the answer had to come from the data itself.
+>
+> **What I found:** The collapse was real — driven entirely by order volume erosion, not 
+> pricing — but 2022 refund data showed 0% across all products, flagging a data completeness 
+> gap that would corrupt any forecast built on it. Revenue is also dangerously concentrated: 
+> 3 products drive ~85% of $28.1M in total sales.
+>
+> **Decision enabled:** Stakeholders now know to audit Oct–Dec 2022 order_status data before 
+> setting targets, and that the fix for revenue recovery is acquisition/retention investment 
+> — not pricing or merchandising changes.
+>
+> **Tools:** PostgreSQL · Excel · Tableau  
+> **Domain:** E-commerce · Consumer Electronics
+
+
+
+
+
+
 <div align="center">
 <img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/995ab9d7-34dc-43a0-8a68-84bde4f75f90" />
 </div>
