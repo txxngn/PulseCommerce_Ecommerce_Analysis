@@ -11,7 +11,7 @@
 > setting targets, and that the fix for revenue recovery is acquisition/retention investment 
 > — not pricing or merchandising changes.
 >
-> **Tools:** SQL · Google BigQuery · Excel · Microsoft Power BI 
+> **Tools:** SQL · Google BigQuery · Excel · Microsoft Power BI <br>
 > **Domain:** E-commerce · Consumer Electronics
 
 
