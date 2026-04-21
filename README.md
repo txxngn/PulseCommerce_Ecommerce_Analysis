@@ -12,6 +12,7 @@
 > — not pricing or merchandising changes.
 >
 > **Tools:** SQL · Google BigQuery · Excel · Microsoft Power BI
+> 
 > **Domain:** E-commerce · Consumer Electronics
 
 
