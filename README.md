@@ -9,7 +9,7 @@
 >
 > **Decision enabled:** Stakeholders now know to audit Oct–Dec 2022 order_status data before 
 > setting targets, and that the fix for revenue recovery is acquisition/retention investment 
-> — not pricing or merchandising changes.
+> - not pricing or merchandising changes.
 >
 > **Tools:** SQL · Google BigQuery · Excel · Microsoft Power BI <br>
 > **Domain:** E-commerce · Consumer Electronics
